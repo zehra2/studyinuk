@@ -659,7 +659,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #fac784;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -671,7 +671,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #fac784;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -1519,9 +1519,9 @@ p {
     left: 0;
     width: 100%;
     height: 4px;
-    background: -webkit-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
-    background: -o-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
-    background: linear-gradient(to right, #43cae9 0%, #38f9d7 100%);
+    background: -webkit-linear-gradient(left, #f5f4f3 0%, #f9a538 100%);
+    background: -o-linear-gradient(left, #f3f1f0 0%, #f5b96a 100%);
+    background: linear-gradient(to right, #f5a356 0%, #eeece9 100%);
     z-index: -1;
     opacity: 0;
     -webkit-transition: all 0.3s ease-out 0s;
@@ -1531,7 +1531,7 @@ p {
     transition: all 0.3s ease-out 0s;
     border-radius: 4px; }
   .portfolio-menu ul li:hover, .portfolio-menu ul li.active {
-    color: #38f9d7; }
+    color: #f9a538; }
     .portfolio-menu ul li:hover::before, .portfolio-menu ul li.active::before {
       opacity: 1; }
 
@@ -1574,7 +1574,7 @@ p {
         margin: 0 20px; }
         .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon a {
           font-size: 48px;
-          color: #38f9d7;
+          color: #f9a538;
           position: relative;
           z-index: 5;
           line-height: 50px; }
